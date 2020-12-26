@@ -1,1 +1,1 @@
-web: herokuAddr=tupianonedrive.herokuapp.com npm run start
+web: herokuAddr=fandaigg.herokuapp.com npm run start
